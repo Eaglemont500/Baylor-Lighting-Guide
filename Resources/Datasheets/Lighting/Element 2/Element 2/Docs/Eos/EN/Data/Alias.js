@@ -1,0 +1,1 @@
+var xmlAliasData="";xmlAliasData+='<?xml version="1.0" encoding="utf-8"?>',xmlAliasData+='<CatapultAliasFile conditions="">',xmlAliasData+="    \x3c!-- saved from url=(0016)http://localhost --\x3e",xmlAliasData+="</CatapultAliasFile>",MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add("Alias",xmlAliasData);
